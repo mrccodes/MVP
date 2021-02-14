@@ -1,0 +1,19 @@
+{
+  "name": "mvp",
+  "version": "1.0.0",
+  "description": "Golf scorecard using React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrccodes/MVP.git"
+  },
+  "author": "Matt Carlos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrccodes/MVP/issues"
+  },
+  "homepage": "https://github.com/mrccodes/MVP#readme"
+}
